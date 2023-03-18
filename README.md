@@ -10,6 +10,7 @@ To download the video presentation off the app please visit: [Video](https://sto
 1. `composer install`
 1. Rename or copy `.env.example` file to `.env`
 1. Set your database credentials in your `.env` file
+1. run `php artisan migrate:fresh --seed` to create the database table and seeds for them
 1. `php artisan serve`
 
 ## Installation frontend (client folder)
