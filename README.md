@@ -1,6 +1,6 @@
 ![lend a book - repo cover image](https://github.com/boscan-alexandru/lend-a-book/blob/main/lend-a-book.png?raw=true)
 
-# Lend a book - test
+# Lend a book
 
 ## Installation backend (api folder)
 
